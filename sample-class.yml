@@ -1,0 +1,37 @@
+class: Class Name
+assignments:
+  - 
+    name: homework
+    points: 20
+    drops: 2
+    scores:
+      - 80
+      - 90
+      - 50
+      - 60
+      - 95
+      - 92
+      - 85
+      - 90
+      - 100
+      - 0
+  -
+    name: midterm
+    points: 45
+    drops: 0
+    scores:
+      - 90
+      - 81
+      - 87
+  -
+    name: final
+    points: 30
+    drops: 0
+    scores:
+      - 80
+  -
+    name: extra-credit
+    points: 10
+    drops: 0
+    scores:
+      - 100
